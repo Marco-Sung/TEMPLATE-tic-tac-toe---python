@@ -12,7 +12,7 @@ For tic tac toe you need a board, of course. [Arrays](https://www.w3schools.com/
 You will be needing this: [for loops](https://www.w3schools.com/python/python\_for\_loops.asp)
 
 You also need to print the board, which is probably best done by shoving the board into a string which you can then print. You can loop over the array(s) and append each character to a string. To make new lines, use \\n (in a string). Please make this look good.  
-![][[/eames screenshots/Screenshot from 2024-08-29 13-21-08.png](https://github.com/SamoCodingClub/TEMPLATE-tic-tac-toe---python/blob/main/eames%20screenshots/Screenshot%20from%202024-08-29%2013-21-08.png)]  
+![][(https://github.com/SamoCodingClub/TEMPLATE-tic-tac-toe---python/blob/main/eames%20screenshots/Screenshot%20from%202024-08-29%2013-21-08.png)]  
 Board, screenshots from Eames
 
 # Getting user input
