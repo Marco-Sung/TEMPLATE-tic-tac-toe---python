@@ -1,5 +1,5 @@
-# TEMPLATE-tic-tac-toe---python
-coding practice beginner project, python
+# TEMPLATE-tic-tac-toe---
+coding practice beginner project
 
 # Tic-tac-toe write up attempt 1
 
@@ -7,12 +7,12 @@ coding practice beginner project, python
 
 # The Board.
 
-For tic tac toe you need a board, of course. [Arrays](https://www.w3schools.com/python/python\_arrays.asp). You should probably use them. You can also put arrays in arrays to make 2D arrays, and while not necessary it can be helpful and intuitive. You should probably have placeholder characters for spots that aren’t filled with x’s or o’s.
+For tic tac toe you need a board, of course. [Arrays](https://www.w3schools.com/python/python\_arrays.asp) if you are doing it in python. If you want to do another language probably look up other documentation. You can also put arrays in arrays to make 2D arrays, and while not necessary it can be helpful and intuitive. You should probably have placeholder characters for spots that aren’t filled with x’s or o’s.
 
 You will be needing this: [for loops](https://www.w3schools.com/python/python\_for\_loops.asp)
 
 You also need to print the board, which is probably best done by shoving the board into a string which you can then print. You can loop over the array(s) and append each character to a string. To make new lines, use \\n (in a string). Please make this look good.  
-![][/eames screenshots/Screenshot from 2024-08-29 13-21-08.png]  
+![][[/eames screenshots/Screenshot from 2024-08-29 13-21-08.png](https://github.com/SamoCodingClub/TEMPLATE-tic-tac-toe---python/blob/main/eames%20screenshots/Screenshot%20from%202024-08-29%2013-21-08.png)]  
 Board, screenshots from Eames
 
 # Getting user input
